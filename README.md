@@ -6,7 +6,7 @@ It is a single HTML page (`index.html`) that runs as a **Claude artifact**. It r
 
 ## Try it
 
-**Sample-data demo (no sign-in):** https://YOUR-USERNAME.github.io/salesforce-wrapped-builder/
+**Sample-data demo (no sign-in):** https://jtsanchez.github.io/salesforce-wrapped-builder/
 
 The demo runs on made-up data so you can look around: set up numbers, switch themes and preview a story and email. Connecting a real org and sending email only work when the page runs as a Claude artifact (see [Set up your own copy](#set-up-your-own-copy)). On the hosted demo, the Connection tab says connectors are not available. That is expected.
 
