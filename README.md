@@ -1,3 +1,5 @@
+
+
 # Salesforce Wrapped Builder
 
 A year-in-review builder for Salesforce, in the style of Spotify Wrapped. An admin chooses what goes into the recap, previews it for any user, then emails each person their own recap. Each recap uses only that person's records.
@@ -12,8 +14,7 @@ The demo runs on made-up data so you can look around: set up numbers, switch the
 
 ## Demo video
 
-<!-- Replace the line below with your video. On GitHub, click the pencil icon to edit this README, then drag your .mp4 file into this spot. -->
-*Demo video coming soon.*
+(https://www.loom.com/share/88ca2b0e6b49479c8a9bb4d4d84a9487)
 
 > Demo project. The sample data is made up.
 
